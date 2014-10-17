@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[krn:home|Door43 (krn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-krn|d43-krn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-krn/archive/master.zip|d43-krn.zip]]
+
+**Recent Changes**
+{{changes>ns = krn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/krn|Ethnologue data]]
+
